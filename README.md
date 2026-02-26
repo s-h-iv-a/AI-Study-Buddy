@@ -26,9 +26,13 @@ venv\Scripts\activate
 
 # On Mac/Linux:
 source venv/bin/activate
+
+
 Step 3 — Install Dependencies
 bashpip install -r requirements.txt
 ⚠️ This may take 5–10 minutes (downloading AI models). That's normal!
+
+
 Step 4 — Get a Free HuggingFace Token
 
 Go to https://huggingface.co and create a free account
